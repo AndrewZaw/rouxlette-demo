@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rouxlette-demo/precache-manifest.d049440ebd012545f50456b02e29608e.js"
+  "/rouxlette-demo/precache-manifest.66fe3b4009a61822f733135f6a68f2d0.js"
 );
 
 self.addEventListener('message', (event) => {
