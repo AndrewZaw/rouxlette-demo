@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/rouxlette-demo/static/css/main.2cce8147.chunk.css",
-    "main.js": "/rouxlette-demo/static/js/main.e556df0a.chunk.js",
-    "main.js.map": "/rouxlette-demo/static/js/main.e556df0a.chunk.js.map",
+    "main.css": "/rouxlette-demo/static/css/main.462b0bd9.chunk.css",
+    "main.js": "/rouxlette-demo/static/js/main.49653740.chunk.js",
+    "main.js.map": "/rouxlette-demo/static/js/main.49653740.chunk.js.map",
     "runtime~main.js": "/rouxlette-demo/static/js/runtime~main.13de2492.js",
     "runtime~main.js.map": "/rouxlette-demo/static/js/runtime~main.13de2492.js.map",
-    "static/js/2.b41502e9.chunk.js": "/rouxlette-demo/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/rouxlette-demo/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.7e2a1eaf.chunk.css": "/rouxlette-demo/static/css/2.7e2a1eaf.chunk.css",
+    "static/js/2.5ffe4fa8.chunk.js": "/rouxlette-demo/static/js/2.5ffe4fa8.chunk.js",
+    "static/js/2.5ffe4fa8.chunk.js.map": "/rouxlette-demo/static/js/2.5ffe4fa8.chunk.js.map",
     "index.html": "/rouxlette-demo/index.html",
-    "precache-manifest.53e1e297b9134e769e505dc381ab201a.js": "/rouxlette-demo/precache-manifest.53e1e297b9134e769e505dc381ab201a.js",
+    "precache-manifest.71292bf031e01d3a901b34258514bf5c.js": "/rouxlette-demo/precache-manifest.71292bf031e01d3a901b34258514bf5c.js",
     "service-worker.js": "/rouxlette-demo/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/rouxlette-demo/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/rouxlette-demo/static/media/logo.5d5d9eef.svg"
+    "static/css/2.7e2a1eaf.chunk.css.map": "/rouxlette-demo/static/css/2.7e2a1eaf.chunk.css.map",
+    "static/css/main.462b0bd9.chunk.css.map": "/rouxlette-demo/static/css/main.462b0bd9.chunk.css.map",
+    "static/media/Andrew.jpg": "/rouxlette-demo/static/media/Andrew.f7d19268.jpg",
+    "static/media/Ashwin.jpg": "/rouxlette-demo/static/media/Ashwin.da094018.jpg",
+    "static/media/Tika.jpg": "/rouxlette-demo/static/media/Tika.cf9decc0.jpg",
+    "static/media/Vinnie.jpg": "/rouxlette-demo/static/media/Vinnie.212efc3b.jpg",
+    "static/media/max.jpg": "/rouxlette-demo/static/media/max.21a3c672.jpg",
+    "static/media/index.css": "/rouxlette-demo/static/media/roboto-latin-900italic.bc833e72.woff"
   }
 }
