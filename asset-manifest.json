@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rouxlette-demo/static/css/main.2cce8147.chunk.css",
+    "main.js": "/rouxlette-demo/static/js/main.e556df0a.chunk.js",
+    "main.js.map": "/rouxlette-demo/static/js/main.e556df0a.chunk.js.map",
+    "runtime~main.js": "/rouxlette-demo/static/js/runtime~main.13de2492.js",
+    "runtime~main.js.map": "/rouxlette-demo/static/js/runtime~main.13de2492.js.map",
+    "static/js/2.b41502e9.chunk.js": "/rouxlette-demo/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/rouxlette-demo/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/rouxlette-demo/index.html",
+    "precache-manifest.53e1e297b9134e769e505dc381ab201a.js": "/rouxlette-demo/precache-manifest.53e1e297b9134e769e505dc381ab201a.js",
+    "service-worker.js": "/rouxlette-demo/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/rouxlette-demo/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/rouxlette-demo/static/media/logo.5d5d9eef.svg"
+  }
+}
