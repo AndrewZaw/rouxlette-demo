@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "056380f0c65bfca70299c0d7a088eb20",
+    "revision": "e95bd19767638044a2d938dc5c843220",
     "url": "/rouxlette-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rouxlette-demo/static/css/2.7e2a1eaf.chunk.css"
   },
   {
-    "revision": "ce0a7b6f1adcf52c42a2",
+    "revision": "8de01a47422248d915b4",
     "url": "/rouxlette-demo/static/css/main.462b0bd9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rouxlette-demo/static/js/2.5ffe4fa8.chunk.js"
   },
   {
-    "revision": "ce0a7b6f1adcf52c42a2",
-    "url": "/rouxlette-demo/static/js/main.fae68bfb.chunk.js"
+    "revision": "8de01a47422248d915b4",
+    "url": "/rouxlette-demo/static/js/main.84b78430.chunk.js"
   },
   {
     "revision": "1067dad226320224a30e",
